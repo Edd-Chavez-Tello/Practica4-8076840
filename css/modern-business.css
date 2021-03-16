@@ -1,0 +1,68 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+/* Comentarios en CSS*/
+/* Estilo mediante un class en HTML*/
+.colorFIME {
+  color: #216E2F;
+  font-size: 15px;
+}
+
+/* Estilo mediante ID en HTML*/
+#ColorFIMEID {
+  color: #c12f2f;
+  font-size: 20px;
+}
+.botonWhatsapp {
+  background-color: rgb(92, 200, 95);
+  color: #fff;
+  width: 100px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.Haceranchounboton{
+  width: 200px; 
+}
+
+.roboto {
+  font-family: 'Roboto Slab', serif;
+}
+
+.letrados {
+  font-family: 'Noto Serif', serif;
+}
+
+.navBarVerde{
+  background-color: #1e7e34
+}
+
+a{
+  color: #20ad31;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.ColorCliente{
+  color: #216E2F;
+}
